@@ -1,3 +1,4 @@
+# Plugging into the future: An exploration of electricity consumption patterns project 
 # Abstract
 
 Understanding energy consumption patterns is vital in an industry, that of the distribution of electrical energy, which is very much limited by infrastructural capacity.
